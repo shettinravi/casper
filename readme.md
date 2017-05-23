@@ -11,7 +11,7 @@ casperjs & PhantomJS
 
 - go to folder "node_modules/casperjs/bin/"
 - create your JS file with test cases
-- casperjs <YOUR JS FILE NAME>
+- casperjs YOUR JS FILE NAME
 
 ## Reference for test
 
